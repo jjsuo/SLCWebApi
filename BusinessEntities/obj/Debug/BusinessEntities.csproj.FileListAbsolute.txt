@@ -1,0 +1,4 @@
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb

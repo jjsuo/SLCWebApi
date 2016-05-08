@@ -1,0 +1,7 @@
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\obj\Debug\BusinessService.csprojResolveAssemblyReference.cache
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\BusinessService.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\BusinessService.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\BusinessEntities.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\BusinessEntities.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\obj\Debug\BusinessService.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\obj\Debug\BusinessService.pdb
