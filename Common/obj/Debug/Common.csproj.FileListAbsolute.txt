@@ -1,0 +1,5 @@
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\bin\Debug\Common.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\bin\Debug\Common.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\obj\Debug\Common.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\obj\Debug\Common.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\bin\Debug\Microsoft.Xrm.Sdk.dll

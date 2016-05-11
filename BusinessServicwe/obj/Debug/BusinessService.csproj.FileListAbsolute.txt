@@ -5,3 +5,6 @@ E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\De
 E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\BusinessEntities.pdb
 E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\obj\Debug\BusinessService.dll
 E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\obj\Debug\BusinessService.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\Common.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\Common.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\BusinessServicwe\bin\Debug\Microsoft.Xrm.Sdk.dll

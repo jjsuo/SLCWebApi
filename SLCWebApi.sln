@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessEntities", "Busines
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessService", "BusinessServicwe\BusinessService.csproj", "{F5E4935C-8E05-4CB6-BF0F-CB739534CA16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{857BFC66-1243-480E-880E-CFFAF3F102F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonDll", "CommonDll", "{C639E6FB-3879-46F9-BDCA-6C2C43A924D6}"
+	ProjectSection(SolutionItems) = preProject
+		CommonDll\Microsoft.Xrm.Sdk.dll = CommonDll\Microsoft.Xrm.Sdk.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{F5E4935C-8E05-4CB6-BF0F-CB739534CA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E4935C-8E05-4CB6-BF0F-CB739534CA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E4935C-8E05-4CB6-BF0F-CB739534CA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857BFC66-1243-480E-880E-CFFAF3F102F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857BFC66-1243-480E-880E-CFFAF3F102F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857BFC66-1243-480E-880E-CFFAF3F102F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857BFC66-1243-480E-880E-CFFAF3F102F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

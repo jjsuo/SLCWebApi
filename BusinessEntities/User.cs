@@ -8,8 +8,27 @@ namespace BusinessEntities
 {
     public class User
     {
-        public string userName { get; set; }
+        public string UserId { get; set; }
 
-        public string passWord { get; set; }
+        //用户名
+        public string UserName { get; set; }
+
+       
+
+        //性别
+        public string Gendercode { get; set; }
+
+        //证件类型
+        public string Certype { get; set; }
+
+        //证件号码
+        public string Governmentid { get; set; }
+
+
+        //联系方式
+        public string Phone { get; set; }
+
+        //地址
+        public string Address { get; set; }
     }
 }

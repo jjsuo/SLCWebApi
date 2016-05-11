@@ -1,0 +1,6 @@
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\bin\Release\Common.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\bin\Release\Common.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\bin\Release\Microsoft.Xrm.Sdk.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\obj\Release\Common.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\Common\obj\Release\Common.pdb

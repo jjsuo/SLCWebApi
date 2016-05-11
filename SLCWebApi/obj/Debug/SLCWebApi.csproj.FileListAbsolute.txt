@@ -19,3 +19,6 @@ E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\bin\zh-Hans\S
 E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\obj\Debug\SLCWebApi.csprojResolveAssemblyReference.cache
 E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\obj\Debug\SLCWebApi.dll
 E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\obj\Debug\SLCWebApi.pdb
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\bin\Common.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\bin\Microsoft.Xrm.Sdk.dll
+E:\CRM\CRM Project\Private\医疗门户\WebApi\SLCWebApi\SLCWebApi\bin\Common.pdb
